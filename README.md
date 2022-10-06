@@ -1,6 +1,5 @@
 <div id="header" align="center">
-  <h1>Hello There!<h1>
-  <img src="https://media.giphy.com/media/lRLzrbhmh5pFf4jOga/giphy.gif" width="100"/>
+  <img src="https://cdna.artstation.com/p/assets/images/images/025/965/386/original/lennart-butz-idea5anim4.gif" width="100"/>
 </div>
 
 
