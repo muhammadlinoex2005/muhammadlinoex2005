@@ -1,8 +1,10 @@
-Hello!
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/kDkUNHvbB6vjqeWSyp/giphy.gif" width="100"/>
+</div>
 
-I'm Ardho, you can contact me on e-mail
 
-Have a good day!
+
+
 
 <!---
 muhammadlinoex2005/muhammadlinoex2005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
