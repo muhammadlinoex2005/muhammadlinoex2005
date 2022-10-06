@@ -1,4 +1,4 @@
-<img align="center" alt="Intro " width="1080" src="https://cdna.artstation.com/p/assets/images/images/025/965/386/original/lennart-butz-idea5anim4.gif">
+<img align="center" alt="Intro " width="720" src="https://cdna.artstation.com/p/assets/images/images/025/965/386/original/lennart-butz-idea5anim4.gif">
 
 
 
