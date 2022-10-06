@@ -1,6 +1,4 @@
-<div id="header" align="center">
-  <img src="https://cdna.artstation.com/p/assets/images/images/025/965/386/original/lennart-butz-idea5anim4.gif" width="100"/>
-</div>
+<img align="center" alt="Intro " width="1080" src="https://cdna.artstation.com/p/assets/images/images/025/965/386/original/lennart-butz-idea5anim4.gif">
 
 
 
