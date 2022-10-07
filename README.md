@@ -4,7 +4,9 @@
 <p align="center">I also have expertise in low-level programming languages, such as C and C++<p>
 
 
+<h1 align="center">My Github Stats<h1>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadlinoex2005&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
