@@ -8,11 +8,11 @@
 
 <h2 align="center">My Github Stats<h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadlinoex2005&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=muhammadlinoex2005&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-<br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=muhammadlinoex2005&show_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadlinoex2005&show_icons=true&theme=buefy)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadlinoex2005&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!---
 muhammadlinoex2005/muhammadlinoex2005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
