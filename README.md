@@ -1,6 +1,8 @@
-<img align="left" alt="Intro" width="480" src="https://media.giphy.com/media/lRLzrbhmh5pFf4jOga/giphy.gif">
-<h1 align="center">Beware!! This profile is still in progress!!<h1>
-<p align="center">Please watch your attitude<p>
+<img align="right" alt="Intro" width="360" src="https://media.giphy.com/media/lRLzrbhmh5pFf4jOga/giphy.gif">
+<h1 align="center">Hello! I'm Ardho!<h1>
+<p align="center">I am a linux system administrator, I also have expertise in low-level programming languages, such as C and C++<p>
+<p align="center">I am a linux system administrator, I also have expertise in low-level programming languages, such as C and C++<p>
+
 
 
 
