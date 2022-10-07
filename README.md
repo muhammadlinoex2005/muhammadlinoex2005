@@ -1,5 +1,5 @@
 <img align="right" alt="Intro" width="360" src="https://media.giphy.com/media/lRLzrbhmh5pFf4jOga/giphy.gif">
-<h1 align="center">Hey 👋 ! I'm Ardho!<h1>
+<h1 align="center">Hey! I'm Ardho! :D <h1>
 <p align="center">I'm a linux system administrator<p>
 <p align="center">I have expertise in managing various linux system, such as Ubuntu, Arch-Linux, Opensuse, and Fedora<p>
 <p align="center">I'm currently seeking a part-time job, if you have one, please let me know!<p>
