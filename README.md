@@ -1,7 +1,7 @@
 <img align="right" alt="Intro" width="360" src="https://media.giphy.com/media/lRLzrbhmh5pFf4jOga/giphy.gif">
 <h1 align="center">Hello! I'm Ardho!<h1>
-<p align="center">I am a linux system administrator, I also have expertise in low-level programming languages, such as C and C++<p>
-<p align="center">I am a linux system administrator, I also have expertise in low-level programming languages, such as C and C++<p>
+<p align="center">I'm a linux system administrator, I have expertise in managing various linux system, such as Ubuntu, Arch-Linux, Opensuse, and Fedora<p>
+<p align="center">I also have expertise in low-level programming languages, such as C and C++<p>
 
 
 
