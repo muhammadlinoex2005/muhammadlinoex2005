@@ -4,14 +4,7 @@
 <p align="center">I have expertise in managing various linux system, such as Ubuntu, Arch-Linux, and Opensuse<p>
 <p align="center">I'm currently seeking for a remote programming job, if you have one, please let me know!<p>
 
-<br>
-<br>
-<br>
 
-<h2 align="center">My Github Stats<h2>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadlinoex2005&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=muhammadlinoex2005&show_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
 
